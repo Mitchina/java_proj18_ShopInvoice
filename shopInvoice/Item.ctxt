@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ Write\ the\ quantity\ of\ an\ purchased\ item\ and\ get\ its\ total\ price.\r\n
+comment1.params=aProduct\ aQuantity
+comment1.target=Item(Product,\ int)
+comment1.text=\r\n\ Build\ a\ item\ with\ the\ product\ and\ its\ quantity.\r\n
+comment2.params=
+comment2.target=double\ getTotalPrice()
+comment2.text=\r\n\ Calculate\ the\ total\ price\ of\ the\ purchased\ products.\r\n
+comment3.params=
+comment3.target=java.lang.String\ format()
+numComments=4
